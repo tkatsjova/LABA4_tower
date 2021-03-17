@@ -1,0 +1,33 @@
+There were 2 in this tower!
+There were maximum 2 rooms for one floor in this tower!
+There were 2 rooms in this tower!
+There were maximum 2 enemies in one room!
+The hero's level was 1000!
+You can see the TOWER with 2 floors, puppy!
+You are on the 0 floor! Choose the room for fighting!
+Player select is: 0 room.
+You are in the room with 1 enemies! Fight!
+Your enemy's level is 1
+Lucky for you that he was the one who slipped on the banana peel! Now your level is 1001!
+The room is secured!
+You are in the 0 room, puppy! Choose the nearest room with enemies: 1 or 1! Player select is: 1
+You are in the room with 1 enemies! Fight!
+Your enemy's level is 1
+You broke his head with an ax! Now your level is 1002!
+The room is secured!
+0 floor is secured!
+You are on the 1 floor! Choose the room for fighting!
+Player select is: 0 room.
+You are in the room with 1 enemies! Fight!
+Your enemy's level is 1
+Lucky for you that he was the one who slipped on the banana peel! Now your level is 1003!
+The room is secured!
+You are in the 0 room, puppy! Choose the nearest room with enemies: 1 or 1! Player select is: 1
+You are in the room with 2 enemies! Fight!
+Your enemy's level is 2
+You broke his head with an ax! Now your level is 1005!
+Your enemy's level is 2
+You broke his head with an ax! Now your level is 1007!
+The room is secured!
+1 floor is secured!
+VICTORY!
